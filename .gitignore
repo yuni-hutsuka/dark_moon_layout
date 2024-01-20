@@ -1,0 +1,6 @@
+# .gitignore
+
+*.*
+!*.*
+
+.practice.txt
