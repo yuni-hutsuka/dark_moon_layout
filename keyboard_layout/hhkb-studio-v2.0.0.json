@@ -1,0 +1,156 @@
+[
+  {
+    "backcolor": "#1c1c1c",
+    "name": "HHKB Studio",
+    "author": "Yuni Hutsuka"
+  },
+  [
+    {
+      "c": "#474747",
+      "t": "#ffffff\n\n\n\n#5e5e5e\n\n\n\n\n\n\n#5e5e5e",
+      "a": 0
+    },
+    "\nEsc\n\n\nPower",
+    {
+      "t": "#ffffff\n\n\n\n#5e5e5e",
+      "a": 5
+    },
+    "!\n1\n\n\nF1",
+    "\"\n2\n\n\nF2",
+    "#\n3\n\n\nF3",
+    "$\n4\n\n\nF4",
+    "%\n5\n\n\nF5",
+    "&\n6\n\n\nF6",
+    "'\n7\n\n\nF7",
+    "(\n8\n\n\nF8",
+    ")\n9\n\n\nF9",
+    "\n0\n\n\nF10",
+    "=\n-\n\n\nF11",
+    "~\n^\n\n\nF12",
+    "|\n\\\n\n\nF13",
+    {
+      "t": "#ffffff\n\n\n\n\n#5e5e5e\n\n\n\n\n\n#5e5e5e",
+      "a": 0
+    },
+    "\n\n\nBS\n\nDel"
+  ],
+  [
+    {
+      "t": "#ffffff\n\n\n\n\n\n\n\n\n\n\n#5e5e5e",
+      "w": 1.5
+    },
+    "\nTab\n\n\nCaps",
+    {
+      "t": "#ffffff\n\n\n\n#5e5e5e",
+      "a": 5
+    },
+    "ひ\n⇩",
+    "そ\nは",
+    "け\nな",
+    "ふ\nき",
+    "ぬ\nね",
+    "み\nる",
+    "わ\nく",
+    "り\nの\n\n\nPS/SRq",
+    "え\n゜\n\n\nScrLk",
+    "や\n゛\n\n\nPus/Brk",
+    "`\n@\n\n\n↑",
+    "{\n[",
+    {
+      "x": 0.25,
+      "a": 4,
+      "w": 1.25,
+      "h": 2,
+      "w2": 1.5,
+      "h2": 1,
+      "x2": -0.25
+    },
+    "\n\n\nEnter"
+  ],
+  [
+    {
+      "w": 1.75
+    },
+    "\nControl",
+    {
+      "a": 5
+    },
+    "ろ\nこ\n\n\nVolDn",
+    "よ\nて\n\n\nVolUp",
+    "お\n⇧\n\n\nMute",
+    "ら\nか\n\n\nEject",
+    "さ\nと",
+    "を\nう\n\n\n*",
+    "つ\nい\n\n\n/",
+    "ま\n⇧\n\n\nHome",
+    "れ\nし\n\n\nPgUp",
+    "+\n;\n\n\n←",
+    "*\n:\n\n\n→",
+    "}\n]"
+  ],
+  [
+    {
+      "a": 4,
+      "w": 2
+    },
+    "\nShift",
+    {
+      "a": 5
+    },
+    "\nゆ",
+    "め\nへ",
+    "ほ\nす",
+    "せ\nた",
+    "む\nも",
+    "ち\nに\n\n\n+",
+    "あ\nん\n\n\n-",
+    "<\n,\n\n\nEnd",
+    ">\n.\n\n\nPgDn",
+    "?\n/\n\n\n↓",
+    "_\n\\",
+    {
+      "a": 7
+    },
+    "↑\n\n\n\nShift",
+    {
+      "a": 5
+    },
+    "\nShift"
+  ],
+  [
+    {
+      "a": 4
+    },
+    "\nFn",
+    {
+      "x": 0.25,
+      "a": 7
+    },
+    "HHKB",
+    {
+      "a": 4
+    },
+    "\nAlt\nOpt",
+    "\n無",
+    "\n◇\nCmd",
+    {
+      "a": 7,
+      "w": 2.5
+    },
+    "",
+    {
+      "a": 4
+    },
+    "Opt\n\n\nAlt",
+    "\n\n\n変",
+    "Cmd\nKana",
+    "\n\n\nFn",
+    {
+      "x": 0.25,
+      "a": 7
+    },
+    "←\n\n\n\nDel",
+    "↓\n\n\n\n◇",
+    "→\n\n\n\nCtrl"
+  ]
+]
